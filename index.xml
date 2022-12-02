@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE class [
+    <!Element class (chairs, mobiles ) >
+    <!Element chairs (#PCDATA )>
+    <!Element mobiles (#PCDATA)>
+]>
+<class>
+    <chairs>hello</chairs>
+    <mobiles>world</mobiles>
+</class>
